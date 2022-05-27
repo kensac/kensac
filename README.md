@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
-<h3 align="center">A freshman at The Pennsylvania State University majoring in Computer Science</h3>
+<h3 align="center">I'm an incomng freshman at The Pennsylvania State University majoring in Computer Science</h3>
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking to collaborate on **new projects related to AI/ML**
 
 - 📫 How to reach me **kanishksachdev@gmail.com**
 
