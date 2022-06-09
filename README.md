@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanishk</h1>
+<h1 align="center">Hi, I'm Kanishk</h1>
 <h3 align="center">I'm an incomng freshman at The Pennsylvania State University majoring in Computer Science</h3>
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
